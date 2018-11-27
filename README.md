@@ -1,4 +1,4 @@
-# cs4hs2
+# CS4HS2
 
 ## Test project
 
